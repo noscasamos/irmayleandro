@@ -16,7 +16,7 @@ background-color: white;
     font-family: 'Open Sans', sans-serif;
 }
 .wrp{
-    width: 100%; height: 503px;
+    width: 100%; height: 620px;
     position: relative;
 }
 .imagenPortada{
@@ -32,7 +32,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 background-size: 100%; 
-background-image: url(../img/A&E-1346.jpg); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 }
@@ -50,7 +50,7 @@ background-attachment: scroll;
     width: 100%;
     max-width: 650px;
     text-align: center;
-   margin-top: 300px;
+   margin-top: 400px;
 
 }
 .contenido .info .nuestraBoda{
@@ -279,7 +279,7 @@ margin-top: -10px;
     width: 100%;
     max-width: 750px;
     text-align: center;
-   margin-top: 270px;
+   margin-top: 370px;
 
 }
 .contenido .info .nuestraBoda{
@@ -656,7 +656,7 @@ text-shadow: 0px 0px 0px;
     width: 100%;
     max-width: 750px;
     text-align: center;
-   margin-top: 280px;
+   margin-top: 380px;
 
 }
 .contenido .info .nuestraBoda{
@@ -734,7 +734,7 @@ text-shadow: 0px 0px 0px;
 
 .tespero{
   text-shadow: 0px 1px 10px rgba(0,0,0,0.4); 
-  margin-top: -300px; 
+  margin-top: -90px; 
   color:#fff;  
   font-family: 'Playfair Display', serif; 
   font-size:15px;
@@ -819,7 +819,7 @@ font-family: 'Cantata One', serif;
 }
 .tespero{
   text-shadow: 0px 1px 10px rgba(0,0,0,0.4); 
-  margin-top: -300px; 
+  margin-top: -90px; 
   color:#fff;  
   font-family: 'Playfair Display', serif; 
   font-size:15px;
@@ -1539,7 +1539,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpg); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -2372,14 +2372,14 @@ img.hover-shadow {
 @media only screen and (max-width: 380px) and (min-width: 320px)  {
 
 .wrp{
-    width: 100%; height: 500px;
+    width: 100%; height: 580px;
     position: relative;
 }
 .contenido .info{
     width: 100%;
     max-width: 750px;
     text-align: center;
-   margin-top: 230px;
+   margin-top: 300px;
 
 }
 .contenido .info .nuestraBoda{
@@ -2420,7 +2420,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpg); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -2464,7 +2464,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpg); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -2508,7 +2508,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpg); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -2552,7 +2552,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpg); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -2596,7 +2596,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.jpg); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
