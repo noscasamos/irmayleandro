@@ -357,9 +357,17 @@ sr.reveal('.textoasistencia', {
 
 	}); 
 			sr.reveal('.form-register', {
-		duration: 1000, //tiempo
-		//delay:800,
+		duration: 1400, //tiempo
+		delay:700,
 		origin: 'top', //origen
+		distance: '200px', //distancia
+		
+
+	});
+			sr.reveal('.itinerario', {
+		duration: 2500, //tiempo
+		delay:1000,
+		origin: 'bottom', //origen
 		distance: '300px', //distancia
 		
 
